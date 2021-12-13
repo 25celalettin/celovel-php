@@ -8,4 +8,5 @@ eger api yapmak istiyorsanız, json göndermek icin callback veya controller fon
 mysql veritabanı bilgilerinizi app/env.php den guncelleyin.
 
 tema motoru icin Tayfun Erbilen < https://github.com/tayfunerbilen >
+
 tema motoru -> https://github.com/tayfunerbilen/prototurk-template-engine
