@@ -1,5 +1,5 @@
 # celovel
-Celovel - Super Basic Framework for PHP Projects
+Celovel - Super Basic Framework (like express.js) for PHP Projects
 
 internette erişime açık olan klasörünüz public_html olacak şekilde host edin, eğer bu klasörün adı public_html degil ise env.php icersinden PUBLIC_DIRNAME sabitini guncelleyin.
 
